@@ -96,28 +96,6 @@ Projeto principal voltado para tecnologia, inovação e desenvolvimento de solu�
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduxpz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FD7B01&icon_color=FD7B01&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxpz&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FD7B01&text_color=FFFFFF"/>
-
-</div>
-
----
-
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Duduxpz/Duduxpz/output/github-contribution-grid-snake.svg" alt="Snake Contribution"/>
-
-</div>
 
 ---
 
