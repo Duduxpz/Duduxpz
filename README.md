@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=FD7B01&center=true&vCenter=true&width=700&lines=FullStack+Developer;Construindo+interfaces+modernas;Criando+sistemas+e+APIs;Transformando+ideias+em+código" alt="Typing animation"/>
+
 
 <br><br>
 
