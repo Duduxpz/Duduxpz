@@ -108,33 +108,6 @@ Projeto principal voltado para tecnologia, inovação e desenvolvimento de solu�
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Duduxpz&theme=dark&hide_border=true&background=0D0D0D&ring=FD7B01&fire=FD7B01&currStreakLabel=FD7B01&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duduxpz&bg_color=0D0D0D&color=FFFFFF&line=FD7B01&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Duduxpz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
