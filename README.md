@@ -107,7 +107,7 @@ Projeto principal voltado para tecnologia, inovação e desenvolvimento de solu�
 <img src="https://img.shields.io/badge/Website-StackByte-FD7B01?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/_duduxpz">
+<a href="https://www.instagram.com/xx.duduxpz">
 <img src="https://img.shields.io/badge/Instagram-_duduxpz-FD7B01?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
